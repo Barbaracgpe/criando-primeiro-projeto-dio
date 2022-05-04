@@ -1,0 +1,22 @@
+	
+	Anotações do Curso GFT Start Woman Java
+
+-Lógica de Programação:
+Linguagem de Programação = Instruções e regras usadas para gerar programas Software.
+Compilados e Interpretados.
+
+-Utilizando o Portugal:
+Pseudocódigos = Pseud. linguagem (programa pensa no problema em si e executa o algoritmo.
+Matriz e Valores.
+
+- Estrutura de Dados
+Estrutura organizada de dados na memória utilizados de forma correta através de algoritmos.
+
+-Algoritmo:
+Manipula dados nas estruturas de várias formas (inserir, excluir, procurar e ordenar).
+Vetores, Matrizes e Registros.
+Listas (ligadas e duplamente ligadas).
+Pilhas (LIFO e FIFO) ou (UEPS e PEPS).
+
+-Git/GitHub
+Distribuição em cronologia diferente (link no repositório).
